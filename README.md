@@ -2,6 +2,7 @@
 # 🖥️Olá eu sou o Samuel!
 
 **`Desenvolvedor de Sistemas`**
+
 Apaixonado por tecnologia, ao longo desses últimos anos venho estudando e me aprimorando cada vez mais, possuo formação superior em Gestão Financeira pela Universidade Paulista e Técnico em Desenvolvimento de Sistemas pela ETEC, no momento estou cursando o 6° semestre de Análise e Desenvolvimento de Sistemas pela FATEC, entre outros certificados como Programador Java, Desenhista de Páginas Web, Programação Front End (Web Designer), Designer de UI|UX e Designer de Interfaces Web.
  
 <div> 
@@ -85,18 +86,26 @@ Apaixonado por tecnologia, ao longo desses últimos anos venho estudando e me ap
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
+<img
+   align="left" 
+   alt="JUnit"
+   title="JUnit" 
+   width="50px" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
+
+
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Spring" 
+    title="Spring"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 
   <img
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Maven" 
+    title="Maven"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" />
