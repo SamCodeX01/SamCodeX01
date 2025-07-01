@@ -1,6 +1,4 @@
-# Olá eu sou o Samuel!
-## Desenvolvedor de Sistemas
-### Violinista e Baixista nas horas vagas! 🤓🎻🎶
+
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
@@ -27,11 +25,12 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
-# 👩🏻‍💻 Larissa Kich
+# 👨🏽‍💻Olá eu su o Samuel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor de Sistemas`**
+Apaixonado por tecnologia, ao longo desses últimos anos venho estudando e me aprimorando cada vez mais, possuo formação superior em Gestão Financeira pela Universidade Paulista e Técnico em Desenvolvimento de Sistemas pela ETEC, no momento estou cursando o 6° semestre de Análise e Desenvolvimento de Sistemas pela FATEC, entre outros certificados como Programador Java, Desenhista de Páginas Web, Programação Front End (Web Designer), Designer de UI|UX e Designer de Interfaces Web.
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
