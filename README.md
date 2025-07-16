@@ -3,7 +3,7 @@
 
 **`Desenvolvedor de Sistemas`**
 
-Apaixonado por tecnologia, ao longo desses últimos anos venho estudando e me aprimorando cada vez mais, possuo formação superior em Gestão Financeira pela Universidade Paulista e Técnico em Desenvolvimento de Sistemas pela ETEC, no momento estou cursando o 6° semestre de Análise e Desenvolvimento de Sistemas pela FATEC, entre outros certificados como Programador Java, Desenhista de Páginas Web, Programação Front End (Web Designer), Designer de UI|UX e Designer de Interfaces Web.
+Apaixonado por tecnologia, ao longo desses últimos anos venho estudando e me aprimorando cada vez mais, possuo formação superior em Gestão Financeira pela Universidade Paulista e Técnico em Desenvolvimento de Sistemas pela ETEC, no momento estou cursando o 6° semestre de Análise e Desenvolvimento de Sistemas pela FATEC, entre outros certificados como Programador Java, Desenhista de Páginas Web, Programação Front End (Web Designer), Designer de UI|UX, Designer de Interfaces Web e Desenvolvimento em Javascript.
  
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
